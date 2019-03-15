@@ -6,6 +6,7 @@ body{
   background-color: white;
   height: 50px;
   width: 275px;
+  color: purple;
 }
 
 .container{
@@ -19,21 +20,26 @@ p{
   color: blue;
   width: 400px;
   padding: 10px;
-  line-height: 150%;
+  line-height: 130%;
 }
 
 #target-number{
 width: 250px;
-height: 75px;
+height: 85px;
 background-color: white;
+color: blue;
 }
 
-#games{
-  width: 100px;
-  height: 50px;
-  top: -95px;
+.games{
+  width: 150px;
+  height: 80px;
+  top: -105px;
   left: 275px;
   position: relative;
+  background-color: white;
+  color: blue;
+  line-height: 0%;
+  padding: 5px;
 }
 
 .crystals{
@@ -48,12 +54,14 @@ background-color: white;
   width: 200px;
   position: relative;
   top: -80px;
+  color: blue;
 }
 
 #score{
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   background-color: white;
   position: relative;
   top: -80px;
+  color: blue;
 }
