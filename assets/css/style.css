@@ -1,0 +1,59 @@
+body{
+  background-image: url(../images/background.png);
+}
+
+#Title{
+  background-color: white;
+  height: 50px;
+  width: 275px;
+}
+
+.container{
+  width: 500px;
+  height: 500px;
+  margin-left: 5%;
+}
+
+p{
+  background-color: white;
+  color: blue;
+  width: 400px;
+  padding: 10px;
+  line-height: 150%;
+}
+
+#target-number{
+width: 250px;
+height: 75px;
+background-color: white;
+}
+
+#games{
+  width: 100px;
+  height: 50px;
+  top: -95px;
+  left: 275px;
+  position: relative;
+}
+
+.crystals{
+  top: -80px;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+
+#total{
+  background-color: white;
+  width: 200px;
+  position: relative;
+  top: -80px;
+}
+
+#score{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  top: -80px;
+}
