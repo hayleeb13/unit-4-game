@@ -9,3 +9,5 @@
 * The project allows the user to interact with the program.
 
 * The user can get started by clicking on any of the four gems.
+
+Deployed page https://hayleeb13.github.io/unit-4-game/
